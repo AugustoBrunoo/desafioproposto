@@ -8,3 +8,4 @@ if (chute == numeroSecreto) {
 //Fazendo alteração que o desafio mandou fazer
 
 alert('Augusto você é brabo!');
+alert('Só mais uma alteração!');

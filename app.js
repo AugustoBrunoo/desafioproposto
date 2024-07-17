@@ -9,3 +9,4 @@ if (chute == numeroSecreto) {
 
 alert('Augusto você é brabo!');
 alert('Só mais uma alteração!');
+alert('Testando o Git ligado ao VSCode');

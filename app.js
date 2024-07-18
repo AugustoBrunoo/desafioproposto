@@ -7,7 +7,7 @@ if (chute == numeroSecreto) {
     console.log('Isso ai! Você descobriu o número secreto (50)');
 } else {
     alert(`Você errou! O número secreto é ${numeroSecreto}`);
-    alert(`Jecatatuiba`);
+    alert('Reinicia a página');
 }
 //Fazendo alteração que o desafio mandou fazer
 

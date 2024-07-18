@@ -7,12 +7,10 @@ if (chute == numeroSecreto) {
     console.log('Isso ai! Você descobriu o número secreto (50)');
 } else {
     alert(`Você errou! O número secreto é ${numeroSecreto}`);
-    alert('Você é brabo!')
+ 
 }
 //Fazendo alteração que o desafio mandou fazer
 
-alert('Augusto você é brabo!');
-alert('Só mais uma alteração!');
 
-alert('Testando o Git ligado ao VSCodeezinho');
+
 
